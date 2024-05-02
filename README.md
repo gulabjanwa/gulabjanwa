@@ -2,9 +2,9 @@
 
  <h1 align="center">Hi 👋, I'm Gulab Janwa</h1>
 
-- 🔭 I’m currently in B.TECH second year running
-- 🌱 I’m currently learning mern stack
-- 💬 Ask me anything about 
+- 🔭 I’m currently in B.TECH second year running.
+- 🌱 I’m currently learning FULL STACK DEVELOPMENT.
+- 💬 Ask me anything about html , css .....
 - 📫 How to reach me: janwagulab853@gamil.com
 - 😄 My website: ...............
 - ⚡ Fun fact: I'm comming to 
@@ -29,7 +29,7 @@
 </div>
 
 ### Languages and Tools:
-HTML & CSS
+HTML 5, CSS 3, NODE , JAVASCRIPT etc.....
 
 
 <br>
