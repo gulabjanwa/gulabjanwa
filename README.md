@@ -14,7 +14,7 @@
   <a href="https://github.com/gulabjanwa">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-  <a href="">
+  <a href="https://youtube.com/@gulabjanwa7699?si=x0YVAAv2rpOg7Zub">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
    <a href="https://www.instagram.com/itz_.gulab_09">
