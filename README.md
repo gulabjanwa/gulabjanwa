@@ -23,6 +23,6 @@
 ### Languages and Tools:
 HTML 5, CSS 3, NODE , JAVASCRIPT etc.....
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh-choudhary-123&theme=tokyonight-duo" alt="mukesh-choudhary-123" /></p>
+
 <br>
 ⭐️ From [GULAB JANWA](https://github.com/gulabjanwa)
