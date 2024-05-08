@@ -18,6 +18,7 @@
   <a href="https://github.com/gulabjanwa">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
+  <a href="https://www.linkedin.com/in/gulab-janwa-622b482b4/" target="blank"><img align="center" src=https://img.icons8.com/?size=1x&id=xuvGCOXi8Wyg&format=png alt="https://www.linkedin.com/in/lalit-malviya-1168b3266/" height="33" width="35" /></a>
  
    <a href="">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
