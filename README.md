@@ -7,11 +7,9 @@
 
 
 - 🔭 I’m currently in B.TECH second year running.
-- 🌱 I’m currently learning FULL STACK DEVELOPMENT.
-- 💬 Ask me anything about html , css .....
-- 📫 How to reach me: janwagulab853@gamil.com
-- 😄 My website: ...............
-- ⚡ Fun fact: I'm comming to 
+- 📫 To reach me: janwagulab853@gamil.com
+- 😄 My website: www.linkedin.com/in/gulab-janwa-622b482b4/
+  
   
 ### Connect with me:
 <div id="badges">
